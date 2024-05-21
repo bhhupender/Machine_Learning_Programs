@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a762d53d-13fa-419d-b12b-8b188674dcf1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/testproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L1andL2_Regularization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PCA_digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bagging_diabetes_prediction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datanalysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decision_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decision_tree_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_OHE_carprices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastapiprog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradient_descent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grid_search_cv_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grid_search_hyper_param_tunning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iris_log_regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k_fold.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kmeans_clustering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knn_classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knn_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear_multivariate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear_regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_reg_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logistic_regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_bayes_1_titanic_survival_prediction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_bayes_2_email_spam_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_bayes_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one_hot_encoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandastut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pca_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/save_and_load_model_using_pickle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svm_exercise_digits.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2eUM3iOk0p3IyGe7cHiKIibeTVh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.JSON addsbook.executor": "Run",
+    "Python.L1andL2_Regularization.executor": "Run",
+    "Python.PCA_digits.executor": "Run",
+    "Python.address.executor": "Run",
+    "Python.bagging_diabetes_prediction.executor": "Run",
+    "Python.class.executor": "Run",
+    "Python.datanalysis.executor": "Run",
+    "Python.decision_tree.executor": "Run",
+    "Python.decision_tree_exercise.executor": "Run",
+    "Python.decorators.executor": "Run",
+    "Python.dublylinkedlist.executor": "Run",
+    "Python.exercise_OHE_carprices.executor": "Run",
+    "Python.generators.executor": "Run",
+    "Python.gradient_descent.executor": "Run",
+    "Python.grid_search_cv_exercise.executor": "Run",
+    "Python.grid_search_hyper_param_tunning.executor": "Run",
+    "Python.hashtable_collision.executor": "Run",
+    "Python.hello.executor": "Run",
+    "Python.import.executor": "Run",
+    "Python.iris_log_regression.executor": "Run",
+    "Python.iterators.executor": "Run",
+    "Python.k_fold.executor": "Run",
+    "Python.kmeans_clustering.executor": "Run",
+    "Python.knn_classification.executor": "Run",
+    "Python.knn_exercise.executor": "Run",
+    "Python.linear_multivariate.executor": "Run",
+    "Python.linear_regression.executor": "Run",
+    "Python.linkedlist.executor": "Run",
+    "Python.log_reg_exercise.executor": "Run",
+    "Python.logistic_regression.executor": "Run",
+    "Python.multithreading.executor": "Run",
+    "Python.naive_bayes_1_titanic_survival_prediction.executor": "Run",
+    "Python.naive_bayes_2_email_spam_filter.executor": "Run",
+    "Python.naive_bayes_exercise.executor": "Run",
+    "Python.numpy.executor": "Run",
+    "Python.numpytut.executor": "Run",
+    "Python.one_hot_encoding.executor": "Run",
+    "Python.pandastut.executor": "Run",
+    "Python.pca_exercise.executor": "Run",
+    "Python.save_and_load_model_using_pickle.executor": "Run",
+    "Python.svm_exercise_digits.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/BHUPENDRA-SINGH/PycharmProjects/machine_learning",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.bagging_diabetes_prediction">
+    <configuration name="PCA_digits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testproject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PCA_digits.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bagging_diabetes_prediction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testproject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bagging_diabetes_prediction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="knn_classification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testproject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/knn_classification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="knn_exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testproject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/knn_exercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="testproject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pca_exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testproject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pca_exercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bagging_diabetes_prediction" />
+        <item itemvalue="Python.pca_exercise" />
+        <item itemvalue="Python.PCA_digits" />
+        <item itemvalue="Python.knn_exercise" />
+        <item itemvalue="Python.knn_classification" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a762d53d-13fa-419d-b12b-8b188674dcf1" name="Changes" comment="" />
+      <created>1711954506636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711954506636</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
